@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 times=1
 fun () {
-    wile ./random.sh;
+    whhile ./random.sh;
     do
         times=$((times+1))
     done
